@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-05-03T04:31:45.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6O_NYoik82UH6yULckow" version="24.3.1" type="device" pages="2">
+  <diagram name="Copia de Página-1" id="oSMtSQXer3AQWSs_yblX">
+    <mxGraphModel dx="1050" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-0" />
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-1" parent="ITZqCjDKTqbUzmalmDnB-0" />
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-3" target="ITZqCjDKTqbUzmalmDnB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-3" value="Proceso guia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="364" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-5" target="ITZqCjDKTqbUzmalmDnB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-5" value="definir a, b, c Como Real" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="346" y="300" width="136" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-7" target="ITZqCjDKTqbUzmalmDnB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-7" value="&quot;ingresa 2 numeros&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="342" y="360" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-9" target="ITZqCjDKTqbUzmalmDnB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-9" value="a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="385" y="430" width="58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-11" target="ITZqCjDKTqbUzmalmDnB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-11" value="c= a+b" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="386" y="500" width="56" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-12" value="Finproceso" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="381" y="630" width="66" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ITZqCjDKTqbUzmalmDnB-1" source="ITZqCjDKTqbUzmalmDnB-14" target="ITZqCjDKTqbUzmalmDnB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-14" value="&quot;el resultado es: &quot;, c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="351" y="570.75" width="126" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ITZqCjDKTqbUzmalmDnB-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Valores dados a los colores:&lt;/h1&gt;&lt;div&gt;Verde: Texto&lt;/div&gt;&lt;div&gt;Amarillo oscuro: Inicio del proceso, fin del proceso.&lt;/div&gt;&lt;div&gt;Amarillo algo claro: Definición de valores.&lt;/div&gt;&lt;div&gt;Rosado: Leer lo introducido por el Usuario.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ITZqCjDKTqbUzmalmDnB-1">
+          <mxGeometry x="100" y="200" width="180" height="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0-2BrAk_RiTmaO4D_WAF" name="Página-2">
+    <mxGraphModel dx="1050" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
